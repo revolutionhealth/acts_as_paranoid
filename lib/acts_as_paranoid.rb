@@ -27,4 +27,5 @@ class << ActiveRecord::Base
   alias_method :has_many, :has_many_without_deleted
   alias_method :exists_with_deleted?, :exists?
 end
+
 ActiveRecord::Base.send :include, Caboose::Acts::Paranoid
