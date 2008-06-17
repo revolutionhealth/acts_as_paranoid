@@ -1,5 +1,5 @@
 GEM = "acts_as_paranoid"
-VERSION = "0.0.1"
+VERSION = "1.0.0"
 AUTHOR = "Revolution Health"
 EMAIL = "nicholas.lega@revolutionhealth.com"
 HOMEPAGE = "http://"
